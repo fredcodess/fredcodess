@@ -32,7 +32,6 @@ Currently exploring the world of **Artificial Intelligence ** while turning idea
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fredcodess&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredcodess&layout=compact&theme=radical)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=fredcodess&theme=radical)  
 
