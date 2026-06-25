@@ -74,6 +74,5 @@ Building a Python/ROS2 middleware stack and ASR/NLP/LLM voice-control system for
 
 ### 📫 Connect With Me
 
-* LinkedIn: [LinkedIn](https://www.linkedin.com/in/fredickb-data/)
-* GitHub: [GitHub](https://github.com/fredcodess)
+* [LinkedIn](https://www.linkedin.com/in/fredickb-data/)
 * Email: [fredgyancodes@gmail.com](mailto:fredgyancodes@gmail.com)
